@@ -2,7 +2,9 @@ test code basic at master
 
 func 1
 func 2
-func 3
+//func 3 Not needed
 
-func 4
 func 5
+
+func 7
+func 8
